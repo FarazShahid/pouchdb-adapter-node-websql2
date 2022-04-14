@@ -11,7 +11,7 @@
   "dependencies": {
     "pouchdb-adapter-websql-core": "github:connectingmatrix/pouchdb-adapter-websql-core#master",
     "pouchdb-utils": "7.0.0",
-    "websql": "1.0.0"
+    "websql": "github:connectingmatrix/websql#master"
   },
   "module": "./lib/index.es.js",
   "files": [
